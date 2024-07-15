@@ -1,0 +1,2 @@
+CI_REGISTRY: "harbor.innova.com.tr"
+CI_REGISTRY_PASSWORD: "Iot1234!*"
